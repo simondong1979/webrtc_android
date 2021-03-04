@@ -101,26 +101,7 @@ apk for branch_meeting : [AndroidDemo.apk](https://github.com/ddssingsong/webrtc
 
    google git demo
 
-   
-
-## License
-
-MIT License 
-Copyright (c) 2019 哒哒瑟 
-
-
-
-## QQ
-
-QQ Group：webrtc技术交流群
-
-QQ 群   号：601332720
-            619413989  （2群）
-
-
-加入群一起探讨webrtc，分享好的开源项目
-
-
+  
 
 
 
