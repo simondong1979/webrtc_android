@@ -2,7 +2,7 @@
 
 # Sky p2p metting (p2p视频会议)
 
-> [中文文档](<https://github.com/ddssingsong/webrtc_android/blob/master/README-zh.md>)
+> [中文文档](<https://github.com/simondong1979/webrtc_android/blob/master/README-zh.md>)
 
 
 
@@ -102,6 +102,8 @@ apk for branch_meeting : [AndroidDemo.apk](https://github.com/ddssingsong/webrtc
    google git demo
 
   
+
+
 
 
 
